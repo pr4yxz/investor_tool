@@ -1,0 +1,5 @@
+min_cagr: 0.10
+min_roic: 0.12
+max_de_ratio: 0.8
+max_payout: 0.7
+moat_score_default: 1
